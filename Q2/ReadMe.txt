@@ -1,0 +1,1 @@
+/*Implemente uma struct que leia o nome, a idade e o endereço de uma pessoa.*/

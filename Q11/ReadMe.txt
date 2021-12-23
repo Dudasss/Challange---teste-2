@@ -1,0 +1,1 @@
+/*Faça um programa que leia os dados de 10 alunos com nome matrícula média final, armazenando em um vetor uma vez os dados devido esses dados em dois novos vetores o vetor dos aprovados e o vetor dos aprovados média 5*/

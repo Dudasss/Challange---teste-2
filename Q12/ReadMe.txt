@@ -1,0 +1,1 @@
+/*Sortear um baralho (52 cartas, 4 naipes, 13 cartas/naipes)para 2 jogadores cada um recebe 5 cartas*/

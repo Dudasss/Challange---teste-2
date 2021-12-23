@@ -1,0 +1,1 @@
+/*Faça um programa que realiza a leitura dos seguintes dados relativos a um conjunto de alunos: matrícula nome código da disciplina nota 1 nota 2. Considere uma turma de 10 alunos. Após de todos os dados digitados e depois de armazená-los em um vetor de estrutura exibir na tela a listagem final os alunos com suas respectivas médias  ponderadas com peso 1 nota 1 e peso2 nota2*/

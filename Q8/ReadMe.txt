@@ -1,0 +1,1 @@
+/*Faça um programa que armazene em um registro de dados (estrutura composta) os dados de um funcionário de empresa compostas de: nome idade sexo CPF data de nascimento código do setor onde trabalha (0-99) cargo que ocupa(string[30]) e salário dados devem ser digitados pelo usuário mas nada na estrutura exibido na tela*/
